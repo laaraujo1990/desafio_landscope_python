@@ -12,7 +12,7 @@ Your final output string should return the keys in alphabetical order. Exclude k
 have a value of 0 after being summed up.
 <p>
 Examples
-# Input: ["X:-1", "Y:1", "X:-4", "B:3", "X:5"]
-# Output: B:3,Y:1
-# Input: ["Z:0", "A:-1"]
-# Output: A:-1
+<br> Input: ["X:-1", "Y:1", "X:-4", "B:3", "X:5"]
+Output: B:3,Y:1
+Input: ["Z:0", "A:-1"]
+Output: A:-1
