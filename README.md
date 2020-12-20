@@ -1,4 +1,5 @@
 Searching Challenge
+<p>
 Have the function SearchingChallenge(strArr) read in the strArr parameter containing 
 key:value pairs where the key is a string and the value is an integer. Your program should 
 return a string with new key:value pairs separated by a comma such that each key appears 
